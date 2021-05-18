@@ -7,7 +7,7 @@
 - MAKE
 
 # EXECUTION
-./matchstick [number of lines] [maximum number of matches to be removed]
+./my_sokoban [map]
 
 # CREDITS
  Maxime Hoffbeck
